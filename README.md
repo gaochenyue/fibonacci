@@ -82,5 +82,13 @@ GET http://localhost:8080/fibonacci/number/{n}
   "value" : 8
 }
 ```
+# Unit Tests
+```sh
+/fibonacci/src/test/java/app/FibonacciControllerTests.java
+```
 
+# Logging
+```sh
+/inteview/fibonacci/logs
+```
 
