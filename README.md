@@ -13,9 +13,11 @@ This is a coding assignment for an internal inteview
 # Deploy
 
 ### Prerequisites
+```sh
 Git 2.10.1 or above
 Mavan 3.3.9 or above
 JDK 1.8
+```
 
 ### Get source code
 ```sh
@@ -28,6 +30,7 @@ $ git clone https://github.com/gaochenyue/fibonacci.git
 $ cd fibonacci
 $ mvn clean package
 ```
+##### The first build will take longer because it has to download dependencies
 
 ### start the server
 ```sh
