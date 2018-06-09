@@ -19,7 +19,7 @@ This is a coding assignment for an internal inteview
 Windows 10
 MacOS 10.11.6
 Git 2.10.1 or above
-Mavan 3.2.5 or above
+Maven 3.2.5 or above
 JDK 1.8
 ```
 
