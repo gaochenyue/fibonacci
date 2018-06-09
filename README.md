@@ -35,6 +35,7 @@ $ cd fibonacci
 $ mvn clean package
 ```
 ##### The first build will take longer because it has to download dependencies
+##### If you don't want to build your own, you can directly download the [pre-built JAR file ](https://www.dropbox.com/s/owatlu9a9ssromk/fibonacci-1.0.0.jar?dl=0) here
 
 ### start the server
 ```sh
